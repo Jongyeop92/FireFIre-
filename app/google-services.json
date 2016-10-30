@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1092621132858",
+    "firebase_url": "https://fireinthehouse-3ca4d.firebaseio.com",
+    "project_id": "fireinthehouse-3ca4d",
+    "storage_bucket": "fireinthehouse-3ca4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092621132858:android:c5c9ee0d1b68b410",
+        "android_client_info": {
+          "package_name": "app.jongyeop.fireinthehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092621132858-7sdbvpt3o0sidlf8i1f5ar0pf23is26b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC8LqqqqG1m6xLBDN8J3TUrI5xBq-nrag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092621132858:android:d725126b124c02db",
+        "android_client_info": {
+          "package_name": "app.jongyeop2.fireinthehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092621132858-7sdbvpt3o0sidlf8i1f5ar0pf23is26b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC8LqqqqG1m6xLBDN8J3TUrI5xBq-nrag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

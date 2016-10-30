@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/fire_extinguisher"
+            android:layout_gravity="center"/>
+
+        <Button
+            android:id="@+id/btn_setting"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="기기 설정"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/btn_push_list"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="푸시 알람 등록"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/btn_history"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="화재 히스토리"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/btn_reset_app_data"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="앱 데이터 리셋"
+            android:onClick="onClick"/>
+
+    </LinearLayout>
+
+</LinearLayout>
